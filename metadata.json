@@ -1,0 +1,6 @@
+{
+  "name": "Edge Scanner 2",
+  "description": "Compare authorized sportsbook lines, research NFL and NBA matchup context, inspect home venues and weather, and track reviewed bet slips.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
