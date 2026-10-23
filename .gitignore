@@ -6,6 +6,13 @@ __pycache__/
 venv/
 .env
 .env.*
+!.env.example
+
+# Node & Build artifacts
+node_modules/
+dist/
+dist-ssr/
+*.local
 
 # Local data (keep empty folders available in the repository)
 data/raw/*
